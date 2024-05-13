@@ -10,17 +10,6 @@ This project was generated with Angular CLI version 12.2.6.
 Development server
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
-# $ ng build
-Build
-Run ng build to build the project. The build artifacts will be stored in the dist/ directory.
-
-# $ ng build
-Running unit tests
-Run ng test in terminal to execute the unit tests via Karma.
-
-# $ ng test
-Wrote 12 Unit Test to check the basic functionalities of the components. Components/Services Tested :
-
 AppComponent
 MainComponent
 UserDataService
